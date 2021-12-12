@@ -1,0 +1,6 @@
+The tracked metrics for the GAN are included in this folder as .npy files.
+
+We tracked the following metrics :
+1. MSE Loss
+2. MAE Loss
+3. Gradient Loss
